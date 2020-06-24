@@ -1,0 +1,128 @@
+"employeeData" = [
+ 
+
+ 
+  {
+  
+   " id": 1,
+    "name": "Beyonce",
+    "lastName":"hello",
+    "email": "b@beyonce.com",
+   " phone": "+123456789",
+    "skills": "java",
+    "visa": "h1b",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  {
+   " id": 2,
+    "name": "Jack Bauer",
+    "lastName":"hello",
+    "email": "jack@nowhere.com",
+   " phone": "+987654321",
+    "skills": "java,python,c",
+    "visa": "h1b",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  {
+   " id": 3,
+    "name": "Chuck Norris",
+    "lastName":"hello",
+    "email": "gmail@chucknorris.com",
+   " phone": "+918372574",
+    "skills": "c#",
+    "visa": "citizen",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  {
+   " id": 4,
+    "name": "jhansi",
+    "lastName":"hello",
+    "email": "jhansi@gmail.com",
+   " phone": "+918372574",
+    "skills": "java",
+    "visa": "citizen",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  {
+   " id": 5,
+    "name": "mounika",
+    "lastName":"hello",
+    "email": "mounika@gmail.com",
+   " phone": "+918372574",
+    "skills": "java",
+    "visa": "citizen",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  { 
+    
+   " id": 6,
+    "name": "niharika",
+    "lastName":"hello",
+    "email": "niharika@gmail.com",
+   " phone": "+918372574",
+    "skills": "python",
+    "visa": "citizen",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  },
+  {
+   " id": 7,
+    "name": "santosh",
+    "lastName":"hello",
+    "email": "santosh@gmail.com",
+   " phone": "+918372574",
+    "skills": "java",
+    "visa": "citizen",
+    "otherSkills":"Machine learning",
+   " yearsOfExperience":"02",
+    "location":"Hyderabad",
+    "specificLocation":"bangalore",
+    "availability":"immediate",
+    "employementTransfer":"No",
+    "referredBy":"Linkedin",
+    "notes":"hello"
+  }
+  ];
+  
+  
